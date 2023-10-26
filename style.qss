@@ -1,0 +1,11 @@
+#email_account_label{
+                    background-color: #009faa;
+                    border-radius: 5px;
+                    padding: 1px;
+                    color: white
+                }
+#stmp_passwd_label{
+                    background-color: #009faa;
+                    border-radius: 5px;
+                    padding: 1px
+                }
